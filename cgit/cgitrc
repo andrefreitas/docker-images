@@ -5,7 +5,7 @@
 #   include=/etc/cgitrepos
 #
 
-root-title=Repository browser
+root-title=André Freitas git repositories
 virtual-root=/git
 
 ##
