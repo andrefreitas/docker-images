@@ -18,8 +18,8 @@ mimetype.jpeg=image/jpeg
 mimetype.pdf=application/pdf
 mimetype.png=image/png
 mimetype.svg=image/svg+xml
-css=/cgit/cgit.css
-logo=/cgit/cgit.png
+css=/git/cgit.css
+logo=/git/cgit.png
 
 enable-git-config=1
 
